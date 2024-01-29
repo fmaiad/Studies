@@ -1,0 +1,239 @@
+
+.secao-blue{
+    background-color:#0E1B3A ;
+    color: #F3F3F3;
+    padding-top: 15px;
+    background-image: url("../img/Group\ 74.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 30px;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 50PX;
+    align-items: center;
+    padding-left: 50px;
+}
+
+#logo{
+    height: 40px;
+}
+.menu a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #F3F3F3;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 80px;
+    
+
+}
+.menu{
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.title{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100 px;
+    margin-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50PX;
+}
+h1{
+    font-size: 90px;
+    margin: 40px;
+}
+h2{
+    font-size: 24PX;
+    font-weight: lighter;
+    margin: 40px;
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 50px 10px 50px;
+    background-color: #F3F3F3;
+}
+.company{
+    font-size: 16px;
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50PX;
+
+}
+#policy, #company, #objective{
+    text-align: center;
+    border: 1px solid #F3F3F3;
+    padding: 15PX;
+    width: 2500px;
+    margin: 20px
+}
+h4{
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    
+}
+.company i{
+    color: #118CD9;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+body p{
+    line-height: 24px;
+    font-weight: 300;
+}
+h3{
+    text-align: center;
+    margin-bottom: 120px;
+    margin-top: 100px;
+}
+.services{
+    padding-left: 50px;
+    padding-right: 50PX;
+    margin: 0;
+    padding-bottom: 0;
+}
+.textos {
+    width: 450px;
+}
+#tools img, #injection img, #mechanics img, #tryout img{
+    width: 400px;
+}
+#tools, #mechanics, #injection, #tryout {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.textos1 {
+    width: 450px;
+    text-align: end;
+}
+.text1 {
+    font-size: 14px;
+    margin-bottom: 1px;
+}
+.differential{
+    text-align: center;
+    display: flex;
+    color: #F3F3F3;
+}
+#iso, #fleet, #location{
+    text-align: center;
+    border: 1px solid #F3F3F3;
+    padding: 15PX;
+    width: 2500px;
+    margin: 20px;
+    background-color: #0E1B3A;
+}
+.differential i{
+    font-size: 20px;
+}
+#nossodiferencial{
+    background-color: #F3F3F3;
+    padding: none;
+    margin: 0;
+}
+#titulodiferencial{
+    color: #0E1B3A;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.secao-white{
+    background-color: #F3F3F3;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: inter;
+    color: #0E1B3A;
+    padding-bottom: 30px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.titlecard{
+    line-height: 2px;
+    margin-top: 1px;
+    
+}
+.differential i{
+    
+    height: 20px;
+    align-items: flex-start;
+}
+.secao-blue2{
+    background-color:#0E1B3A ;
+    font-family: inter;
+    color: #F3F3F3;
+    padding-bottom: 30px;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.visiting{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.visiting img{
+    margin-right: 50px;
+    height: 380px;
+    width: 38000px;
+}
+#contact{
+    padding-top: 80px;
+    margin-bottom: 50px;
+}
+.secao-blue2 p{
+    font-weight: 300;
+    font-style: italic
+}
+#tel, #email, #andress{
+    margin-bottom: 30px;
+}
+.secao-blue2 i{
+    height: 20px;
+}
+#linecontact {
+    max-width: 600px;
+    margin-bottom: 50px;
+}
+#talk form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.forms{
+    width: 60%;
+    padding: 15px;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+#help {
+    color: #0E1B3A;
+    font-size: 16px;
+    font-family: inter;
+}
+.formulario ::placeholder{
+    color: #0E1B3A;
+    font-size: 16px;
+    font-family: inter;
+}
